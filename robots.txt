@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: http://x-undiscovered.com/sitemap.xml
